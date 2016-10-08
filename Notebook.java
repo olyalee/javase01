@@ -1,6 +1,8 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
+//Unit 1 - task 06
+
 /**
  * @author Olya Lee
  * @since 0.1.1
